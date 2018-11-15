@@ -35,4 +35,4 @@ Recurrent Neural NetworkとConvolution Neural Networkを組み合わせたイメ
 
 3. [Graph-based SLAM](https://github.com/takam5f2/CVN_SLAM)
 
-Graph Based SLAMを実装して動作させるプロジェクト
+Graph Based SLAM(Simultaneous Localization and Mapping)を実装して動作させるプロジェクト
